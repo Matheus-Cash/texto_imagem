@@ -9,3 +9,11 @@ line-height: 1,6;
 background-color: aliceblue;
 padding: 20px;
 }
+.descriçao{
+text-align: center;
+margin-bottom: 2em;
+}
+.seçao{
+max-width: 1200px;
+margin: 0auto;
+}
